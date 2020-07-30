@@ -9,7 +9,7 @@ export default class Navigation extends Component {
       <nav className={style.nav}>
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
-        <Link to="/blog">Blog</Link>
+        <Link to="/gallery">Gallery</Link>
         <Link to="/contact">Contact</Link>
       </nav>
     )
